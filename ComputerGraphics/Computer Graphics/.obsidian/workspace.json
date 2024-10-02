@@ -1,0 +1,480 @@
+{
+  "main": {
+    "id": "8c4236c7a7b7050a",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c60f66372ec20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ec3fc2c12ba0450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9003a6a35a60d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Orthonormal Bases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27d5504ca51328d2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241001185600.png"
+              }
+            }
+          },
+          {
+            "id": "8eef52ddf3806927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformation/2D Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ef10f61b15be5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformation/Homogeneous Coordinates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93216c50d91b9051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformation/Composing Transforms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ef50febbbfe2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformation/3D Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "951a576c13b4ee23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformation/Viewing Transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96a8da5be2337460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Sampling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3154e086e085d4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Rasterization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa3fd1096b8c7600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Blurring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42e680525144318c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Frequency Domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18057ae0ce836d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Convolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9ef1610d1c9db7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Aliasing & Anti-Aliasing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db1344323bfd8dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Painters Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36d0f45887c39c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasterization/Z Buffer Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e76317088201d0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Shading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13ba3703020b4a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Blinn-Phong Reflectance Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed0702729cf5acf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Graphics Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33e61a5a306e7e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Texture Mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a3dd8e2e3af45d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Barycentric Coordinates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6370ea514966c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Applying Textures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d968f9846fb184d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Texture Magnification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcda76a48201522c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Mipmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a790204e0a0f874e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shading/Applications of Textures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 24
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b86aa2739aa63b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8515aa8495bf1823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e01617428aab047b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c932206b40aff1c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95564c5b1278702a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06de66cfbf795f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3cbc5c37be5b15f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870bd09a400b700b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shading/Applications of Textures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90536e6dbf54aaab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shading/Applications of Textures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0a58f8ce4777334",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55828c4cd7f0b356",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shading/Applications of Textures.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e01617428aab047b",
+  "lastOpenFiles": [
+    "Shading/Mipmap.md",
+    "Shading/Applications of Textures.md",
+    "Shading/Texture Magnification.md",
+    "Shading/Applying Textures.md",
+    "Shading/Barycentric Coordinates.md",
+    "Shading/Texture Mapping.md",
+    "Shading/Graphics Pipeline.md",
+    "Shading/Blinn-Phong Reflectance Model.md",
+    "Shading/Shading.md",
+    "Rasterization/Z Buffer Algorithm.md",
+    "Shading",
+    "Rasterization/Painters Algorithm.md",
+    "Rasterization/Aliasing & Anti-Aliasing.md",
+    "Rasterization/Convolution.md",
+    "Rasterization/Frequency Domain.md",
+    "Rasterization/Blurring.md",
+    "Rasterization/Rasterization.md",
+    "Rasterization/Sampling.md",
+    "Transformation/Viewing Transformation.md",
+    "Rasterization",
+    "Transformation/3D Transformations.md",
+    "Transformation/Composing Transforms.md",
+    "Transformation/Homogeneous Coordinates.md",
+    "Transformation/2D Transformations.md",
+    "Images/Pasted image 20241001185600.png",
+    "Transformation",
+    "Linear Algebra/Vectors.md",
+    "Images/Pasted image 20241001185839.png",
+    "Linear Algebra/Matrices.md",
+    "Images/Pasted image 20241001185754.png",
+    "Images/Pasted image 20241001185720.png",
+    "Images/Pasted image 20241001185640.png",
+    "Images/Pasted image 20241001185446.png",
+    "Images/Pasted image 20241001185358.png",
+    "Linear Algebra/Orthonormal Bases.md",
+    "Images/Pasted image 20241001185218.png",
+    "Images/Pasted image 20241001184755.png",
+    "Images/Pasted image 20241001184807.png",
+    "Images",
+    "Welcome.md",
+    "Linear Algebra"
+  ]
+}
