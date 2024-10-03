@@ -20,6 +20,10 @@ $$ ||A|| = \sqrt{x^2 +y^2} $$
 
 ### Dot Product 
 
+The most common use of the dot product in graphics programs is to compute the cosine of the angle between two vectors.
+
+The dot product can also be used to find the projection of one vector onto another.
+
 ![[Pasted image 20241001183400.png]]
 $$
 \overrightarrow{a} * \overrightarrow{b} = ||\overrightarrow{a} || * ||\overrightarrow{b}|| \cos{\theta}  

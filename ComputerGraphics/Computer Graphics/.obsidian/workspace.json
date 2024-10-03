@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "66fe18931c87317e",
+        "id": "050fc0d72e54569a",
         "type": "tabs",
         "children": [
           {
-            "id": "40b978ed7567670c",
+            "id": "ad3aa75fc6d76235",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20241002161638.png"
+                "file": "Shading/Texture Magnification.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20241002161638.png",
+                "file": "Shading/Texture Magnification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20241002161638.png",
+                "file": "Shading/Texture Magnification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20241002161638.png"
+                "file": "Shading/Texture Magnification.md"
               }
             }
           },
@@ -153,10 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e01617428aab047b",
+  "active": "ad3aa75fc6d76235",
   "lastOpenFiles": [
-    "Shading/Texture Magnification.md",
     "Shading/Texture Mapping.md",
+    "Shading/Texture Magnification.md",
     "Shading/Shading.md",
     "Shading/Mipmap.md",
     "Shading/Graphics Pipeline.md",
@@ -164,10 +166,17 @@
     "Shading/Barycentric Coordinates.md",
     "Shading/Applying Textures.md",
     "Shading/Applications of Textures.md",
+    "Rasterization/Sampling.md",
+    "Rasterization/Painters Algorithm.md",
+    "Rasterization/Rasterization.md",
+    "Rasterization/Frequency Domain.md",
+    "Rasterization/Convolution.md",
+    "Rasterization/Aliasing & Anti-Aliasing.md",
+    "Linear Algebra/Vectors.md",
+    "Images/Pasted image 20241002161638.png",
     "Images/Pasted image 20241002162155.png",
     "Images/Pasted image 20241002161928.png",
     "Images/Pasted image 20241002161821.png",
-    "Images/Pasted image 20241002161638.png",
     "Images/Pasted image 20241002155418.png",
     "Transformation/Viewing Transformation.md",
     "Images/Pasted image 20241002161012.png",
@@ -176,18 +185,11 @@
     "Images/Pasted image 20241002160935.png",
     "Images/Pasted image 20241002160908.png",
     "Rasterization/Z Buffer Algorithm.md",
-    "Rasterization/Rasterization.md",
-    "Rasterization/Sampling.md",
-    "Rasterization/Painters Algorithm.md",
-    "Rasterization/Frequency Domain.md",
-    "Rasterization/Convolution.md",
     "Rasterization/Blurring.md",
-    "Rasterization/Aliasing & Anti-Aliasing.md",
     "Transformation/Homogeneous Coordinates.md",
     "Transformation/Composing Transforms.md",
     "Transformation/3D Transformations.md",
     "Transformation/2D Transformations.md",
-    "Linear Algebra/Vectors.md",
     "Linear Algebra/Orthonormal Bases.md",
     "Linear Algebra/Matrices.md",
     "Untitled.canvas",
