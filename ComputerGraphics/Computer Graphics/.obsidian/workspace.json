@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d28a531ce9fa1e31",
+        "id": "66fe18931c87317e",
         "type": "tabs",
         "children": [
           {
-            "id": "07a07de8fd2313dd",
+            "id": "40b978ed7567670c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241002161638.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Pasted image 20241002161638.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Pasted image 20241002161638.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Images/Pasted image 20241002161638.png"
+              }
             }
           },
           {
@@ -147,47 +153,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07a07de8fd2313dd",
+  "active": "e01617428aab047b",
   "lastOpenFiles": [
-    "Rasterization/Frequency Domain.md",
-    "Images/Pasted image 20241002134138.png",
-    "Rasterization/Z Buffer Algorithm.md",
-    "Images/Pasted image 20241002134448.png",
-    "Images/Pasted image 20241002134338.png",
-    "Images/Pasted image 20241002134328.png",
-    "Rasterization/Painters Algorithm.md",
-    "Rasterization/Rasterization.md",
-    "Rasterization/Aliasing & Anti-Aliasing.md",
-    "Images/Pasted image 20241002133158.png",
-    "Rasterization/Sampling.md",
-    "Images/Pasted image 20241002133944.png",
-    "Images/Pasted image 20241002133922.png",
-    "Images/Pasted image 20241002133908.png",
-    "Images/Pasted image 20241002133857.png",
-    "Images/Pasted image 20241002133532.png",
-    "Rasterization/Convolution.md",
-    "Linear Algebra/Vectors.md",
-    "Rasterization/Blurring.md",
-    "Untitled.canvas",
-    "Transformation/Viewing Transformation.md",
-    "Transformation/3D Transformations.md",
-    "Transformation/2D Transformations.md",
-    "Transformation/Homogeneous Coordinates.md",
-    "Transformation/Composing Transforms.md",
-    "Linear Algebra/Matrices.md",
-    "Shading/Mipmap.md",
-    "Shading/Applications of Textures.md",
     "Shading/Texture Magnification.md",
-    "Shading/Applying Textures.md",
-    "Shading/Barycentric Coordinates.md",
     "Shading/Texture Mapping.md",
+    "Shading/Shading.md",
+    "Shading/Mipmap.md",
     "Shading/Graphics Pipeline.md",
     "Shading/Blinn-Phong Reflectance Model.md",
-    "Shading/Shading.md",
+    "Shading/Barycentric Coordinates.md",
+    "Shading/Applying Textures.md",
+    "Shading/Applications of Textures.md",
+    "Images/Pasted image 20241002162155.png",
+    "Images/Pasted image 20241002161928.png",
+    "Images/Pasted image 20241002161821.png",
+    "Images/Pasted image 20241002161638.png",
+    "Images/Pasted image 20241002155418.png",
+    "Transformation/Viewing Transformation.md",
+    "Images/Pasted image 20241002161012.png",
+    "Images/Pasted image 20241002160958.png",
+    "Images/Pasted image 20241002160947.png",
+    "Images/Pasted image 20241002160935.png",
+    "Images/Pasted image 20241002160908.png",
+    "Rasterization/Z Buffer Algorithm.md",
+    "Rasterization/Rasterization.md",
+    "Rasterization/Sampling.md",
+    "Rasterization/Painters Algorithm.md",
+    "Rasterization/Frequency Domain.md",
+    "Rasterization/Convolution.md",
+    "Rasterization/Blurring.md",
+    "Rasterization/Aliasing & Anti-Aliasing.md",
+    "Transformation/Homogeneous Coordinates.md",
+    "Transformation/Composing Transforms.md",
+    "Transformation/3D Transformations.md",
+    "Transformation/2D Transformations.md",
+    "Linear Algebra/Vectors.md",
+    "Linear Algebra/Orthonormal Bases.md",
+    "Linear Algebra/Matrices.md",
+    "Untitled.canvas",
     "Shading",
     "Rasterization",
     "Transformation",
-    "Linear Algebra/Orthonormal Bases.md",
     "Images",
     "Linear Algebra"
   ]

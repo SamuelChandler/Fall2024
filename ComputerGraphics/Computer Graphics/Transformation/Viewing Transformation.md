@@ -80,3 +80,7 @@ To find the relationship between transformed points (x',y',z') and the original 
 ![[Pasted image 20241001221254.png]]
 
 ![[Pasted image 20241001221311.png]]
+
+#### Perspective Matrix 
+
+![[Pasted image 20241002145944.png]]
