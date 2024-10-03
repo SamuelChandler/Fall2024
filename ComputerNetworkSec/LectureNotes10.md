@@ -74,6 +74,15 @@ uses rounds of substitution, trransposition, shifts, and XOR
 |key size|rounds|
 |----|----|
 |128|10|
-|144|12|
+|192|12|
 |156|14|
+
+### General Structure 
+
+![alt text](image.png)
+
+
+### Byte Substitution 
+
+A simple substitution of each byte using a table of 16x16 bytes containing a permutation of each 256 8-bit values 
 
