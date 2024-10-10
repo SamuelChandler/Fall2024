@@ -102,5 +102,7 @@ Vulnerable to man-in-middle or masquerading attack, where another user is preten
 
 - Key Management and Key Distribution 
 - Secret Key must be exshanged before communication, or needs the use of a key dist center 
+  - Costly to scale
+  - creates a single point of failure 
 - A host needs a unique key for every host to communicate with -> host nees to hold N-1 Keys 
   - Not feesable with the size of the internet 

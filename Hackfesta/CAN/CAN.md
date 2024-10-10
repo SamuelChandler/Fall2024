@@ -1,3 +1,4 @@
+https://scapy.readthedocs.io/en/latest/layers/automotive.html
 - Both PASTA and RAMN have a CAN bus you can connect to with external adapter 
 - (RAMN has an internal CAN adapter which we will not use for the CTF)
 
