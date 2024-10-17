@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0acf20d80045f530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PASTA/PASTA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAN/CAN.md",
+                "file": "PASTA/PASTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAN/CAN.md",
+                "file": "PASTA/PASTA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAN/CAN.md"
+                "file": "PASTA/PASTA.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c89bf37f837708c4",
+  "active": "0acf20d80045f530",
   "lastOpenFiles": [
+    "RAMN/RAMN.md",
+    "PASTA/PASTA.md",
+    "Workshop Notes/10_11_2024.md",
+    "CAN/CAN.md",
+    "Workshop Notes",
     "Reverse Engineering/Ghidra.md",
     "CAN/UDS.md",
     "Untitled.canvas",
@@ -164,12 +182,10 @@
     "_Image Content/Pasted image 20240929224031.png",
     "_Image Content/Pasted image 20240929224002.png",
     "_Image Content/Pasted image 20240929223927.png",
-    "CAN/CAN.md",
     "Tools/Logic Analyzer.md",
     "UART/UART.md",
     "Logic Analyzer",
     "_Image Content",
-    "PASTA/PASTA.md",
     "Python Scripting.md",
     "UART",
     "Tools/Wire Shark.md",
@@ -177,7 +193,6 @@
     "Tools/Software Tools.md",
     "Tools/Peak CAN Adapter.md",
     "Tools",
-    "RAMN/RAMN.md",
     "PASTA",
     "RAMN",
     "Tools/Hardware Tools.md",
