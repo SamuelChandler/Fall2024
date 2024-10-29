@@ -11,11 +11,13 @@ provides a centralized authentication server
 
 Relies exclusively on conventional encryption
 
+![alt text](image-8.png)
+
 ### Requirements
 - Secure - no masquerading 
 - Reliable - distributed system architecture
-- Transparent
-- Scalable
+- Transparent - User unaware of clients and servers 
+- Scalable - Support large number of servers and clients 
 
 ### Authentication example
 Risk: Impersonation
@@ -40,6 +42,8 @@ a client requesting services applies to the TGS using the ticket to authenticate
 
 - Prevents the need of sending the password multiple times in plain text 
 
+![alt text](image-9.png)
+
 #### Problems
 - Lifetime associated with the ticket granting ticket 
   - if too short then repeated password prompting
@@ -48,7 +52,9 @@ a client requesting services applies to the TGS using the ticket to authenticate
 
 ### Version 4
 Session key - this is included in the encrypted message 
-- used to authenticate TGS and V respectively 
+- used to authenticate TGS and V respectively
+
+ 
 
 ### Realms 
 
